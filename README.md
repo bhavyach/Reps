@@ -1,8 +1,9 @@
 # Authors
-- Eun Chung
-- Jessica Fung
+
 - Aubrey Higginson 
 - Bhavya Chilakapati
+- Eun Chung
+- Jessica Fung
 - Nat Eliason
 
 # Description
